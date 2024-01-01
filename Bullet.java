@@ -5,11 +5,6 @@ public class Bullet extends Sprite {
      *
      * Bullet
      *
-     * COMP 1020 SECTION A03
-     * INSTRUCTOR: Robert Guderian
-     * NAME: Abdulaziz Inuwa Yahaya
-     * ASSIGNMENT: Assignment 4
-     * QUESTION:
      *
      * PURPOSE: controls the bullet shot by the user for destroying aliens
      */
